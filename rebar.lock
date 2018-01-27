@@ -1,0 +1,8 @@
+[{<<"erlexec">>,
+  {git,"https://github.com/adgear/erlexec.git",
+       {ref,"e0f94dd02ee186b4426d35791683ec4bea8184cc"}},
+  1},
+ {<<"wrek">>,
+  {git,"https://github.com/rkallos/wrek.git",
+       {ref,"4c22010f58c3fdb947591369898921069a7ab801"}},
+  0}].
